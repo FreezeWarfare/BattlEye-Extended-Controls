@@ -18,15 +18,15 @@
 	-->
 	
 	<admin id="0">
-		<name>TheGamingChief</name>
-		<guid>7298c5daa0c8f3d87e2bb16fabf1f957</guid>
+		<name>STEAM NAME</name>
+		<guid>GUID HERE</guid>
 		<group>0</group>
 		<groupname>Server Owner</groupname>
 	</admin>
 	
 	<admin id="1">
-		<name>SomeName</name>
-		<guid>c1335fcdf0af5870a2ec12ad5a34c206</guid>
+		<name>STEAM NAME</name>
+		<guid>GUID HERE</guid>
 		<group>3</group>
 		<groupname>Admin</groupname>
 	</admin>
